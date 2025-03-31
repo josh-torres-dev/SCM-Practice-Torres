@@ -1,1 +1,2 @@
-Example text for SCM demonstation
+Example text for SCM demonstration
+Updated edit for new version 
